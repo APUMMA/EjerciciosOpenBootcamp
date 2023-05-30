@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Este es el primer ejecicio del curso JavaScript Básico de OpenBootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ejercicio-1"
+  ],
+  "author": "Angel de la Puente",
+  "license": "ISC"
+}
