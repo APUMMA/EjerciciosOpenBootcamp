@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "Desarrollo del ejercicio 2 del curso de JavaScript Básico de OpenBootcamp",
+  "main": "misDatos.js",
+  "scripts": {
+    "start": "node misDatos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ejercicio-2"
+  ],
+  "author": "Angel de la Puente",
+  "license": "ISC"
+}
