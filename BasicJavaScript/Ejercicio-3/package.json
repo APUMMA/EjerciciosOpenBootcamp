@@ -1,0 +1,18 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "description": "\"Desarrollo del ejercicio 3 del curso de JavaScript Básico de OpenBootcamp\"",
+  "main": "factorial-break.js",
+  "scripts": {
+    "start0": "node factorial-break.js",
+    "start1": "node factorial-for.js",
+    "start2": "node factorial-while.js",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Factorial-Break"
+  ],
+  "author": "Angel de la Puente",
+  "license": "ISC"
+}
